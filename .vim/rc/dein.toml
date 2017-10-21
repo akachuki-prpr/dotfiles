@@ -1,0 +1,15 @@
+# 基本は github.com のレポジトリーを指定するだけ
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'Shougo/neocomplete.vim'
+
+[[plugins]]
+repo = 'Shougo/unite-outline'
+
+[[plugins]]
+rev = 'Shougo/nepsnippet'
+
+[[plugins]]
+repo = 'thinca/vim-quickrun'
